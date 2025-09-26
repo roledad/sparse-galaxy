@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"6e15f55a04cdd6a4","x":197,"y":-371,"width":250,"height":60,"type":"text","text":""},
+		{"id":"dcb2b39ee92f3013","x":-125,"y":-30,"width":125,"height":50,"color":"4","type":"text","text":"Hello World!"},
+		{"id":"34ac33037aac417a","x":220,"y":-119,"width":165,"height":50,"type":"text","text":"Lab thoughts?"},
+		{"id":"48724955fc292101","x":-262,"y":-560,"width":400,"height":400,"type":"file","file":"Notes/the-meaning-of-it-all.md"}
+	],
+	"edges":[
+		{"id":"44d0d8216fa617ad","fromNode":"dcb2b39ee92f3013","fromSide":"top","toNode":"48724955fc292101","toSide":"bottom"},
+		{"id":"80b5d8be0dbcce62","fromNode":"dcb2b39ee92f3013","fromSide":"right","toNode":"34ac33037aac417a","toSide":"bottom"}
+	]
+}

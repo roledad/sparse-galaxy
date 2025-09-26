@@ -1,7 +1,7 @@
 ---
 title: 4,400-year-old Tablet Translate the Sumerian Myth
-permalink: 4400-year-old-tablet-translate-the-sumerian-myth
-aliases: 4400-year-old-tablet-translate-the-sumerian-myth
+permalink: sumerian-myth
+aliases: sumerian-myth
 draft: false
 date: 2025-08-27
 tags:

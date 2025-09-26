@@ -6,7 +6,7 @@ draft: false
 date: 2025-09-07
 tags:
   - movie
-  - hirstory
+  - history
 ---
 
 <a href="https://metrograph.com/film/?vista_film_id=9999003621" target="_blank">

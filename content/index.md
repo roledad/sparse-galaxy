@@ -11,6 +11,19 @@ What Do You Call a Galaxy Without Stars?
 <details><summary> September 2025
 </summary></details>
 
+[Sept 25 2025]  
+[model diversity](model-diversity.md)? 
+
+[Sept 24 2025]  
+[small (language) model](https://research.nvidia.com/labs/lpr/slm-agents/)? 
+
+[Sept 23 2025]  
+> Those were Rommely women: Mary, the mother, Evy, Sissy, and Katie, her daughters, and Francie, who would grow up to be a Rommely woman even though her name was Nolan. They were all slender, frail creatures with wondering eyes and soft fluttery voices.  
+> But they were made out of thin invisible steel. [A Tree Grows In Brooklyn]
+
+[Sept 23 2025]  
+What is connection between the e-commerce and "ai-commerce"? ex. two decades ago, people build online shops/platforms/softwares for physical goods; now people build ai to improve/replace(?) the online shops/platforms/softwares.
+
 [Sept 14 2025]   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LmZD-TU96q4?si=yQsATntCc6zzEIGn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -56,7 +69,7 @@ what i read today: [Sonderweg, Bildung, and Innerlichkeit](the-german-genius)
 
 [aug 26 2025]  
 running on the trails (better without rocks) is such therapeutical  
-what i read today: [Ni 12501, Sumer, Ishkur and Fox](4400-year-old-tablet-translate-the-sumerian-myth)
+what i read today: [Ni 12501, Sumer, Ishkur and Fox](sumerian-myth)
 
 [aug 25, 2025]  
 <a href="https://www.themarginalian.org/2016/06/23/thin-slices-of-anxiety-catherine-lepage/" target="_blank">
@@ -86,7 +99,7 @@ the place where strength, discipline, confidence, and social identity all inters
 [The Third Thing](https://www.poetryfoundation.org/poetrymagazine/articles/60484/the-third-thing)  
 
 [aug 17 2025]  
-Nature has [conservation of energy](/conservation-of-energy), but does not really care; she spends a lot of it in all directions. It is up to the physicist to figure out how to liberate us from the need for having energy. 
+Nature has [conservation of energy](conservation-of-energy), but does not really care; she spends a lot of it in all directions. It is up to the physicist to figure out how to liberate us from the need for having energy. 
 
 [aug 16 2025]  
 when your physical body is in pain, the emotion also falls in turmoil.
