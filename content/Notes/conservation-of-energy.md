@@ -3,7 +3,7 @@ title: Conservation of Energy
 permalink: conservation-of-energy
 aliases: conservation-of-energy
 draft: false
-date: 2025-08-20
+date: 2025-08-17
 tags:
   - physics
   - Feynman

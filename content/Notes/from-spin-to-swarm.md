@@ -3,7 +3,7 @@ title: From Spin to Swarm
 permalink: from-spin-to-swarm
 aliases: flow
 draft: false
-date: 2025-08-20
+date: 2025-08-08
 tags:
   - physics
 ---

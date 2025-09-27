@@ -3,7 +3,7 @@ title: Sampling Techniques and Parameters in LLM
 permalink: sampling-techniques-and-parameters
 aliases: sampling-techniques-and-parameters
 draft: false
-date: 2025-09-25 18:47
+date: 2025-09-25
 tags:
 ---
 

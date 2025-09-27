@@ -3,7 +3,7 @@ title: Basic Physics
 permalink: basic-physics
 aliases: basic-physics
 draft: false
-date: 2025-08-22
+date: 2025-08-09
 tags:
   - physics
   - Feynman

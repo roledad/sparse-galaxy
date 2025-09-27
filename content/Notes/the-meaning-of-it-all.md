@@ -3,7 +3,7 @@ title: The Meaning of It All
 permalink: the-meaning-of-it-all
 aliases: the-meaning-of-it-all
 draft: false
-date: 2025-08-21
+date: 2025-08-10
 tags:
   - physics
   - Feynman

@@ -3,6 +3,7 @@ title: Zeit
 description: zeit
 permalink: zeit
 alias: zeit
+date: /today
 draft: false
 ---
 
