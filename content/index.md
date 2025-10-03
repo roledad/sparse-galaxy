@@ -8,8 +8,9 @@ What Do You Call a Galaxy Without Stars?
 ...These dim ghosts are hard to find and even harder to study, requiring hours or days of observation to bring their visible starlight into.  
 
 ---
-<details><summary> September 2025
-</summary></details>
+<details><summary> October 2025</summary></details>
+<br>
+<details><summary> September 2025</summary>
 
 *[Sept 26 2025]*  
 impulsively read, write, reply, forward posts, that made them a form of art  
@@ -56,9 +57,9 @@ reading the notes/references in *"BREAKNECK"* might be more interesting than the
 also making up a note for *Bodega* while I was searching for its definition. [a piece in NYT](https://www.nytimes.com/2025/08/13/arts/design/deli-bodega-ramps-accessibility.html) described the bodega ramps as art of glaciers, pancakes, clamshells or lava... This is such a mixed feeling about it, or even broader about New York culture, that the ramps are not typically built to meet regulations but praised by new yorkers as “Tactical urbanism” in the term of art. This leaves to think about the art forms and justify with state of order.  
 > The evolving city is a collective enterprise, they seem to say. And we all leave our marks.
 
----
-<details><summary> August 2025
-</summary>
+</details>
+<br>
+<details><summary> August 2025</summary>
 
 *[aug 31 2025]*  
 it's the end of August or Summer? time to archive!  
