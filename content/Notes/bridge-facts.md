@@ -11,7 +11,6 @@ tags:
 
 ### Brooklyn Bridge
 <a href="https://www.nyc.gov/html/dot/html/infrastructure/brooklyn-bridge.shtml" target="_blank">
-
 <img src="https://www.nyc.gov/html/dot/images/infrastructure/brooklyn-bridge.jpg" alt="brooklyn-bridge" width="100%" height="320"></a>
 
 - Total length [^1]: 6,016 feet (1.14 mi)
@@ -21,7 +20,6 @@ tags:
 
 ### Manhattan Bridge
 <a href="https://www.nyc.gov/html/dot/html/infrastructure/manhattan-bridge.shtml" target="_blank">
-
 <img src="https://www.nyc.gov/html/dot/images/infrastructure/manhattan-bridge.jpg" alt="manhattan-bridge" width="100%" height="320"></a>
 
 - Total length from abutment to abutment at lower level: 5,790 feet
@@ -33,7 +31,6 @@ tags:
 
 ### Williamsburg Bridge
 <a href="https://www.nyc.gov/html/dot/html/infrastructure/williamsburg-bridge.shtml" target="_blank">
-
 <img src="https://www.nyc.gov/html/dot/images/infrastructure/williamsburg-bridge.jpg" alt="williamsburg-bridge" width="100%" height="320"></a>
 
 - Total length [^1]: 7,308 feet (1.38 mi)  
@@ -48,7 +45,6 @@ tags:
 
 ### Queensboro Bridge (59th Street Bridge)
 <a href="https://www.nyc.gov/html/dot/html/infrastructure/queensboro-bridge.shtml" target="_blank">
-
 <img src="https://www.nyc.gov/html/dot/images/infrastructure/east_queensboro_new.jpg" alt="queensboro-bridge" width="100%" height="320"></a>
 
 

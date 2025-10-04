@@ -7,9 +7,9 @@ date: /today
 draft: false
 ---
 
-*Hello World! I'm Qi, welcome to sparse galaxy, a cosmetic dance of logs, moments, notes, thoughts and ideas bound together by gravity. They are remain eerily dim, in their subtle glow as they slowly come into focus.*  
+*Hello World! Welcome to sparse galaxy, a cosmetic dance of logs, moments, notes, thoughts and ideas bound together by gravity. They are remain eerily dim, in their subtle glow as they slowly come into focus.*  
 
-*I'm currently living in Brooklyn. You can read more about what I'm doing >>*  
+*I'm Qi, I'm currently living in Brooklyn. You can read more about what I'm doing >>*  
 
 ---
 

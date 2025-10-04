@@ -10,7 +10,6 @@ tags:
 ---
 
 <a href="https://metrograph.com/film/?vista_film_id=9999003621" target="_blank">
-
 <img src="https://metrograph.imgix.net/2023/12/CIN_FarewellMyConcubine_1600x900.jpg?fm=pjpg&ixlib=php-3.3.1" alt="concubine" width="500" height="320"></a>
 
 ### The Opera:

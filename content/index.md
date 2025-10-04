@@ -8,7 +8,12 @@ What Do You Call a Galaxy Without Stars?
 ...These dim ghosts are hard to find and even harder to study, requiring hours or days of observation to bring their visible starlight into.  
 
 ---
-<details><summary> October 2025</summary></details>
+
+<details><summary> October 2025</summary></details>  
+
+*[Oct 2 2025]*  
+*chasing sunset* or whatever *sunset* genz says about it, it sounds vibrationless to me  
+
 <br>
 <details><summary> September 2025</summary>
 

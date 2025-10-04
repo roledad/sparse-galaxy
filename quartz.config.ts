@@ -20,12 +20,12 @@ const config: QuartzConfig = {
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
-      fontOrigin: "googleFonts",
+      fontOrigin: "local",
       cdnCaching: true,
       typography: {
-        header: "Rubik",
-        body: "Rubik",
-        code: "Fira Code",
+        header: "Berkeley Mono",
+        body: "Berkeley Mono",
+        code: "Berkeley Mono",
       },
       colors: {
         lightMode: {
@@ -88,8 +88,8 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
+      // Disabled CustomOgImages as it doesn't support local fonts
+      // Plugin.CustomOgImages(),
     ],
   },
 }
