@@ -13,6 +13,25 @@ draft: false
 
 ---
 
+<details><summary> October 2025</summary>
+
+*[Oct 31 2025]* Spooky day treated myself a boba tea at Chihiro to conclude the month (no photo but very good :P  
+
+---
+
+*[Oct 23 2025]* [Sci Con 33: Expansion of the Universe](https://pioneerworks.org/programs/scientific-controversies-expansion-of-the-universe) at Pioneer Works  
+
+<img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/darkgalaxies/sci_con33.webp" alt="sci_con33" width="480" height="350"> 
+<img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/darkgalaxies/light_innocence.webp" alt="innocent_light" width="230" height="350"> 
+
+---
+
+*[Oct 12 2025]* October did not start with awaking or being locked in after September ends. Instead, i slow down a bit more, try to feel *flows*, and learn to trust.
+
+[flows] in my practice, following the trend, in aware of what i want among others
+
+</details>
+<br>
 <details><summary> September 2025</summary>
 
 *[Sept 29 2025]* a stunning sunset at Willy B for the day  

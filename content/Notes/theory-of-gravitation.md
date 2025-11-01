@@ -10,7 +10,13 @@ tags:
   - Feynman
 ---
 
-### Law of Gravitation: $F = G\frac{mm'}{r^2}$
+### Law of Gravitation: 
+<div style="text-align: center;">
+
+$$F = G\frac{mm'}{r^2}$$
+
+</div>
+
 *every object in the universe attracts every other object with **a force** which for any two bodies is **proportional** to the mass of each and varies inversely as the square of the distance between them*
 
 ### Kepler's laws

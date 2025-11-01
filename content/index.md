@@ -9,21 +9,36 @@ What Do You Call a Galaxy Without Stars?
 
 ---
 
-<details><summary> October 2025</summary></details>  
+<details><summary> October 2025</summary>  
 
-*[Oct 2 2025]*  
-*chasing sunset* or whatever *sunset* genz says about it, it sounds vibrationless to me  
+*[Oct 31 2025]*   
+upon walked out of the door today, a kid with his families surprised me with "Happy Halloween!", followed "we have the same bag". I looked at them carried the same Trader Joe's mini canvas totes, happily responded "Happy Halloween! yes we have the same bag!". I was heading out for grocery, did not realize they were looking for candies; that was a moment where i probably disappointed them despite they enlightened me.    
 
+*[Oct 21 2025]*   
+everyday is learning how to process new information. and today is about how to search on web browser.
+
+*[Oct 13 2025]*  
+in the past, you can copy patterns, tech, skills, ideas; nowadays, you can copy the way of talk, write and think.    
+
+*[Oct 11 2025]*   
+In Nicomachean Ethics, Aristotle said: “O my friends, there is no friend.”  
+Derrida asks:  
+> What happens to politics — to our sense of community, democracy, and justice — when we rethink the idea of “friendship”?
+
+*[Oct 2 2025]*   
+*chasing sunset* or whatever *sunset* genz says about it, it sounds vibrationless to me
+
+</details>
 <br>
 <details><summary> September 2025</summary>
 
-*[Sept 26 2025]*  
+*[Sept 26 2025]*   
 impulsively read, write, reply, forward posts, that made them a form of art  
 
-*[Sept 25 2025]*  
+*[Sept 25 2025]*    
 [model diversity](model-diversity.md)? 
 
-*[Sept 24 2025]*  
+*[Sept 24 2025]*    
 [small (language) model](https://research.nvidia.com/labs/lpr/slm-agents/)? 
 
 *[Sept 23 2025]*  
