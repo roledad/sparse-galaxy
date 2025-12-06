@@ -1,5 +1,5 @@
 ---
-title: Beyond the Divine: pantheon of ancient Egyptian deities
+title: "Beyond the Divine: pantheon of ancient Egyptian deities"
 permalink: beyond-the-divine
 aliases: beyond-the-divine
 draft: false
