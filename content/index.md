@@ -11,10 +11,10 @@ What Do You Call a Galaxy Without Stars?
 
 <details><summary> November 2025</summary>  
 
-*[Nov 24 2025] * 
+*[Nov 24 2025]* 
 Went to the *Wegmans* in Navy Yard on Monday evening during dinner time; most shoppers in the store are delivery persons looking for items received from the orders on Ubers or DoorDash; some could not even read words but recognize by images; one asked for my help to look for a brand of almond that is out of order.  
 
-*[Nov 23 2025] * 
+*[Nov 23 2025]* 
 **[The Bitter Lesson, Rich Sutton](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)**
 > The actual contents of minds are tremendously, irredeemably complex; we should stop trying to find simple ways to think about the contents of minds, such as simple ways to think about space, objects, multiple agents, or symmetries. All these are part of the arbitrary, intrinsically-complex, outside world. They are not what should be built in, as their complexity is endless; instead we should build in only the meta-methods that can find and capture this arbitrary complexity. Essential to these methods is that they can find good approximations, but the search for them should be by our methods, not by us. We want AI agents that can discover like we can, not which contain what we have discovered. Building in our discoveries only makes it harder to see how the discovering process can be done.
 
