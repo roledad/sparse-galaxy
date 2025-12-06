@@ -13,6 +13,31 @@ draft: false
 
 ---
 
+<details><summary> November 2025</summary>
+
+*[Nov 15 2025]* **[Divine Egypt](/beyond-the-divine) at The Met**   
+The ancients applied a fluid approach to faith and established a theological framework to understand a world of chaos and order, danger and protection.  
+
+<img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/darkgalaxies/apis_bull.webp" alt="apis" width="270" height="350"> 
+<img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/darkgalaxies/horus_falcon.webp" alt="horus" width="270" height="350"> 
+<img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/darkgalaxies/thoth_baboon.webp" alt="thoth" width="270" height="350"> 
+<img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/darkgalaxies/wadjet_lion.webp" alt="wadjet" width="270" height="350"> 
+
+---
+
+*[Nov 8 2025]* Marathon #5 Indianapolis Monumental Marathon (3:33:59)  
+
+<img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/darkgalaxies/square.webp" alt="indy" width="350" height="270"> 
+<img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/darkgalaxies/indy.webp" alt="marathon" width="350" height="270"> 
+
+---
+
+*[Nov 4 2025]* 4 days ahead of Indy marathon had my knee bruised T.T  
+
+<img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/darkgalaxies/fall.webp" alt="fall" width="300" height="400"> 
+
+</details>
+</br>
 <details><summary> October 2025</summary>
 
 *[Oct 31 2025]* Spooky day treated myself a boba tea at Chihiro to conclude the month (no photo but very good :P  
