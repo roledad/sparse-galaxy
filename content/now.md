@@ -13,6 +13,27 @@ draft: false
 
 ---
 
+<details><summary> December 2025
+</summary>
+
+*[Dec 27 2025]* BK SNOW DAY
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hU0nH8-pbds?si=j7ps2Dnt5xAGNcyl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+*[Dec 25 2025]* Christmas 2025
+
+<img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/darkgalaxies/christmas_2025.webp" alt="christmas_2025" width="560" height="315"> 
+
+---
+
+*[Dec 15 2025]* Towards the Van Dyke House at the end of Eagle Ridge Road in Vermont.  
+
+<img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/darkgalaxies/eagle_ridge_night.webp" alt="eagle_ridge_night" width="300" height="400"> 
+<img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/darkgalaxies/eagle_ridge.webp" alt="eagle_ridge" width="400" height="300"> 
+
+</details>
+</br>
 <details><summary> November 2025</summary>
 
 *[Nov 15 2025]* **[Divine Egypt](/beyond-the-divine) at The Met**   
