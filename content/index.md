@@ -8,13 +8,22 @@ What Do You Call a Galaxy Without Stars?
 ...These dim ghosts are hard to find and even harder to study, requiring hours or days of observation to bring their visible starlight into.  
 
 ---
+<details><summary> January 2026</summary>
+
+[Jan 7 2026]   
+wet and misty through the slope at dawn,  
+decoction and crotchet in the peckish,  
+seeking approval and the day starting.  
+
+</details>
+<br>
 <details><summary> December 2025</summary>
 
 *[Dec 31 2025]*   
 [Life on Möbius Strip](/mobius-strip-2025)
 
 </details>
-
+<br>
 <details><summary> November 2025</summary>  
 
 *[Nov 24 2025]* 

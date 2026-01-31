@@ -13,6 +13,15 @@ draft: false
 
 ---
 
+<details><summary> January 2026
+</summary>
+
+*[Jan 19 2026]* MLK day at Mount Snow, VT
+
+<img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/darkgalaxies/mount_snow.webp" alt="MOUNT_SNOW" width="540" height="315">   
+
+</details>
+</br>
 <details><summary> December 2025
 </summary>
 
