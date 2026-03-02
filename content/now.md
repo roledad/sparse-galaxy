@@ -13,6 +13,20 @@ draft: false
 
 ---
 
+<details><summary> February 2026
+</summary>
+
+*[Feb 26 2026]* BK SNOW DAY V2
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fs09VU5y3LE?si=FGYd6jA0wenn41Bh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+*[Feb 16 2026]* Lunar New Year's eve at Mount Snow, VT
+
+<img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/darkgalaxies/mount_snow_2.webp" alt="MOUNT_SNOW_2" width="370" height="250">    
+
+</details>
+</br>
 <details><summary> January 2026
 </summary>
 
@@ -48,10 +62,10 @@ draft: false
 *[Nov 15 2025]* **[Divine Egypt](/beyond-the-divine) at The Met**   
 The ancients applied a fluid approach to faith and established a theological framework to understand a world of chaos and order, danger and protection.  
 
-<img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/darkgalaxies/apis_bull.webp" alt="apis" width="270" height="350"> 
-<img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/darkgalaxies/horus_falcon.webp" alt="horus" width="270" height="350"> 
-<img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/darkgalaxies/thoth_baboon.webp" alt="thoth" width="270" height="350"> 
-<img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/darkgalaxies/wadjet_lion.webp" alt="wadjet" width="270" height="350"> 
+<img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/darkgalaxies/apis_bull.webp" alt="apis" width="300" height="360"> 
+<img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/darkgalaxies/horus_falcon.webp" alt="horus" width="300" height="360"> 
+<img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/darkgalaxies/thoth_baboon.webp" alt="thoth" width="300" height="360"> 
+<img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/darkgalaxies/wadjet_lion.webp" alt="wadjet" width="300" height="360"> 
 
 ---
 

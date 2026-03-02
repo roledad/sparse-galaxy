@@ -8,9 +8,19 @@ What Do You Call a Galaxy Without Stars?
 ...These dim ghosts are hard to find and even harder to study, requiring hours or days of observation to bring their visible starlight into.  
 
 ---
+<details><summary> February 2026</summary>
+
+*[Feb 20 2026]*  
+Much more than "lack of willpower", this week my brain got hijacked by the Internet and short videos in the way of "process addiction". It was like traveling back to the teenager years, fancying a pretty boy, and obsessing with good things. 
+
+*[Feb 7 2026]*   
+I entered this world to see the sun...  
+
+</details>
+<br>
 <details><summary> January 2026</summary>
 
-[Jan 7 2026]   
+*[Jan 7 2026]*   
 wet and misty through the slope at dawn,  
 decoction and crotchet in the peckish,  
 seeking approval and the day starting.  
