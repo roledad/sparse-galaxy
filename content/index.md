@@ -8,6 +8,19 @@ What Do You Call a Galaxy Without Stars?
 ...These dim ghosts are hard to find and even harder to study, requiring hours or days of observation to bring their visible starlight into.  
 
 ---
+<details><summary> March 2026</summary>
+
+[March 30 2026]  
+在家的最后一晚，明天就要回美国了。说出“回”这个字的时候，脑子里是停顿了一下的，但在说出来的前一刻，是没有刻意斟酌它的词义表达的。回家也是回，回美国也是回。回家的回是在看到外在物化的变化下，比如城市的规划与变迁，依旧感受到小城镇里家人朋友的生活方式和观念，是没有太过改变的。回美国的回是在经历了十多年异国的生活，不同城市和工作环境、新的朋友和社交，至始至终都是在去适应与改变的、我所习惯而以然的正常生活。
+
+[March 20 2026]  
+这是回家的第一周。刚回来就生病了，加上倒时差的生理反应，整个人都是处于懵晕嗜睡的状态。回来后自然是和家人相聚共餐，而话题也多是只是关于吃，谈谈当季的食材，讲讲这家那家的饭菜。我多是顺着他们的话回应，除此之外便是埋头吃菜。离家的十多余年里，我也便没有再参与他们的记忆，缺席一年又一年的春节，再没有一起旅行过。甚至短暂的聊起去北京去大连的经历，但那已是二十年前的事情。 
+
+[March 12-14 2026]   
+Fly back home!✈️ 🏡
+
+</details>
+<br>
 <details><summary> February 2026</summary>
 
 *[Feb 20 2026]*  
@@ -51,12 +64,19 @@ The lesson well resonates to the great ancient Egyptian's [fluid approach](/beyo
 
 *[Oct 31 2025]*   
 upon walked out of the door today, a kid with his families surprised me with "Happy Halloween!", followed "we have the same bag". I looked at them carried the same Trader Joe's mini canvas totes, happily responded "Happy Halloween! yes we have the same bag!". I was heading out for grocery, did not realize they were looking for candies; that was a moment where i probably disappointed them despite they enlightened me.    
+  
+Spooky day treated myself a boba tea at Chihiro to conclude the month (no photo but very good :P   
 
 *[Oct 21 2025]*   
 everyday is learning how to process new information. and today is about how to search on web browser.
 
 *[Oct 13 2025]*  
 in the past, you can copy patterns, tech, skills, ideas; nowadays, you can copy the way of talk, write and think.    
+
+*[Oct 12 2025]*  
+October did not start with awaking or being locked in after September ends. Instead, i slow down a bit more, try to feel *flows*, and learn to trust.
+
+[flows] in my practice, following the trend, in aware of what i want among others
 
 *[Oct 11 2025]*   
 In Nicomachean Ethics, Aristotle said: “O my friends, there is no friend.”  

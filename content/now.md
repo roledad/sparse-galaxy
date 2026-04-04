@@ -13,6 +13,46 @@ draft: false
 
 ---
 
+<details><summary> March 2026
+</summary>
+
+*[April 1 2026]* *Layover in Istanbul* - Pastries, Tram, Bazaar, Muzesi, Bosphorus and Two continents.
+
+<img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/darkgalaxies/istanbul_borek.webp" alt="borek" width="350" height="280">   
+<img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/darkgalaxies/istanbul_simit.webp" alt="lokum" width="230" height="280">   
+<img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/darkgalaxies/istanbul_taksim.webp" alt="taksim" width="350" height="280">  
+<img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/darkgalaxies/istanbul_egyptbazzar.webp" alt="bazaar" width="230" height="280">   
+<img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/darkgalaxies/istanbul_galata.webp" alt="galata" width="350" height="280">  
+<img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/darkgalaxies/istanbul_muzesi.webp" alt="muzesi" width="350" height="280">   
+<img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/darkgalaxies/istanbul_arkeoloji.webp" alt="arkeoloji" width="350" height="280">  
+<img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/darkgalaxies/istanbul_bospborus.webp" alt="bosphorus" width="350" height="280">  
+
+---
+
+*[March 21-26 2026]* *Ko-Ko-To-Hai(Koktokay), Altay, Xinjiang* - Kuyirt, Yileimuhu, Altai Mountains, Irtysh River.  
+
+<img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/darkgalaxies/koktokay_cemetary.webp" alt="Kuyirt" width="350" height="270">  
+<img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/darkgalaxies/koktokay_yileimuhu.webp" alt="yileimuhu" width="350" height="270">   
+<img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/darkgalaxies/koktokay_altaimountains.webp" alt="altaimountains" width="350" height="270">  
+<img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/darkgalaxies/koktokay_irtyshriver.webp" alt="rtyshriver" width="350" height="270">  
+
+---
+
+*[March 13-31 2026]* **[Home](/home)**
+
+---
+
+*[March 13 2026]* *Layover in Istanbul* - The Camisi and Hafız Mustafa.   
+
+<img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/darkgalaxies/blue_mosque.webp" alt="blue_mosque" width="400" height="300"> 
+<img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/darkgalaxies/camisi.webp" alt="camisi" width="400" height="300">   
+<img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/darkgalaxies/mosque_in_dask.webp" alt="mosque_in_dask" width="300" height="400">   
+<img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/darkgalaxies/mosque_in_dark.webp" alt="mosque_in_dark" width="400" height="300">   
+<img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/darkgalaxies/istanbul_baklava.webp" alt="baklava" width="350" height="280">   
+<img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/darkgalaxies/istanbul_lokum.webp" alt="lokum" width="350" height="280"> 
+
+</details>
+<br>
 <details><summary> February 2026
 </summary>
 
@@ -84,20 +124,10 @@ The ancients applied a fluid approach to faith and established a theological fra
 </br>
 <details><summary> October 2025</summary>
 
-*[Oct 31 2025]* Spooky day treated myself a boba tea at Chihiro to conclude the month (no photo but very good :P  
-
----
-
 *[Oct 23 2025]* [Sci Con 33: Expansion of the Universe](https://pioneerworks.org/programs/scientific-controversies-expansion-of-the-universe) at Pioneer Works  
 
 <img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/darkgalaxies/sci_con33.webp" alt="sci_con33" width="480" height="350"> 
 <img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/darkgalaxies/light_innocence.webp" alt="innocent_light" width="230" height="350"> 
-
----
-
-*[Oct 12 2025]* October did not start with awaking or being locked in after September ends. Instead, i slow down a bit more, try to feel *flows*, and learn to trust.
-
-[flows] in my practice, following the trend, in aware of what i want among others
 
 </details>
 <br>
